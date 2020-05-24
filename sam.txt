@@ -1,4 +1,0 @@
-git add sam.txt
-git commit -m "upload file"
-git remote set -url origin ...........
-git push origin master
